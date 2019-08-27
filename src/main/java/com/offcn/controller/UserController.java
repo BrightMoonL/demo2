@@ -20,6 +20,12 @@ public class UserController {
     UserService userService;
 
 
+    public void gittest3(){
+        System.out.println("test.......");
+    }
+
+
+
     public void gittest(){
         System.out.println("test.......");
     }
