@@ -24,6 +24,12 @@ public class UserController {
         System.out.println("test.......");
     }
 
+
+
+    public void gittest(){
+        System.out.println("test.......");
+    }
+
     /**
      * 获取用户全部信息
      *
