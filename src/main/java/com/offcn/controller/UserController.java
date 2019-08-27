@@ -18,6 +18,12 @@ public class UserController {
 
     @Autowired
     UserService userService;
+
+
+    public void gittest(){
+        System.out.println("test.......");
+    }
+
     /**
      * 获取用户全部信息
      *
